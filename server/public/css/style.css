@@ -68,12 +68,12 @@
      background-color: #050b14;
      color: #FFFEF2;
 }
- .otherTitle {
-     margin-top: 85px;
-     margin-bottom: 10px;
-     font-size: 50px;
-     text-align: center;
-}
+.otherTitle {
+    margin-top: 85px;
+    margin-bottom: 10px;
+    font-size: 50px;
+    text-align: center;
+    }
  .footerBasics{
      min-height: 170px;
      background-color: #C91F37;
