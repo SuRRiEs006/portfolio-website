@@ -1,128 +1,122 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
- .blackContainer {
-     background-color: #050b14;
-     color: #FFFEF2;
-
+.blackContainer {
+background-color: #050b14;
+color: #FFFEF2;
 }
- .creamContainer{
-     color: #050b14;
-     background-color: #FFFEF2;
-
+.creamContainer{
+color: #050b14;
+background-color: #FFFEF2;
 }
- .navbarButton {     
-     font-family: 'Outfit', sans-serif;
-     font-weight: 800;
-     background: #050b14;
-     margin-right: 10px;
-     border-radius: 1000px;
-     padding: 9px 25px;
-     color: #fffef2;
-     display: inline-block;
-     text-align: center;
-     border: none;
-
+.navbarButton {     
+font-family: 'Outfit', sans-serif;
+font-weight: 800;
+background: #050b14;
+margin-right: 3px;
+border-radius: 1000px;
+padding: 9px 25px;
+color: #fffef2;
+display: inline-block;
+text-align: center;
+border: none;
 }
 .leftBorderLine{
-    border-left: 2px solid white;
+border-left: 2px solid white;
 }
- .spacerDiv{
-     height: 100px;
+.spacerDiv{
+height: 100px;
 }
- .navbar {
-     margin-top: 12px;
-     height: 70px;
-     color: #050b14;
-     background-color: #FFFEF2;
+.navbar {
+margin-top: 12px;
+height: 70px;
+color: #050b14;
+background-color: #FFFEF2;
 }
- .textRed{
-     color: #C91F37;
-     font-weight: 700;
-     
+.textRed{
+color: #C91F37;
+font-weight: 700;
 }
- .fontDefault{
-     font-family: 'Outfit', sans-serif;
-     font-size: large;
+.fontDefault{
+font-family: 'Outfit', sans-serif;
+font-size: large;
 }
- .is-danger {
-     transition-duration: 100ms;
+.is-danger {
+transition-duration: 100ms;
 }
- .bannerImage {
-     margin-top: 100px;
+.bannerImage {
+margin-top: 100px;
 }
-
- #bannerTitle {
-     text-align: center;
-     margin-top: 80px;
-     margin-bottom: 70px;
-     font-weight: 700;
-     font-size: 70px;
-     font-weight: 800;
+#bannerTitle {
+text-align: center;
+margin-top: 80px;
+margin-bottom: 70px;
+font-weight: 700;
+font-size: 70px;
+font-weight: 800;
 }
- #bannerText {
-     margin-top: 20px;
-     font-size: 30px;
-     margin-left: 30px;
-     font-weight: 800;
+#bannerText {
+margin-top: 20px;
+font-size: 30px;
+margin-left: 30px;
+font-weight: 800;
 }
- .cardFormat{
-     padding: 6px;
-     margin: auto;
-     margin-bottom: 35px;
-     background-color: #050b14;
-     color: #FFFEF2;
+.cardFormat{
+padding: 6px;
+margin: auto;
+margin-bottom: 35px;
+background-color: #050b14;
+color: #FFFEF2;
 }
 .otherTitle {
-    margin-top: 85px;
-    margin-bottom: 10px;
-    font-size: 50px;
-    text-align: center;
-    }
- .footerBasics{
-     min-height: 170px;
-     background-color: #C91F37;
-     color: rgb(255, 255, 255);
-     padding-left: 30px;
-     padding-top: 30px;
-     text-align: left;
-     font-size: 20px;
-     color: #FFFEF2;
-     padding-bottom: 20px;
-     font-weight: 1000;
+margin-top: 85px;
+margin-bottom: 10px;
+font-size: 50px;
+text-align: center;
 }
- .footerTitle{
-     font-size: 30px;
-     padding: 0px;
+.footerBasics{
+min-height: 170px;
+background-color: #C91F37;
+color: rgb(255, 255, 255);
+padding-left: 30px;
+padding-top: 30px;
+text-align: left;
+font-size: 20px;
+color: #FFFEF2;
+padding-bottom: 20px;
+font-weight: 1000;
 }
- .cardButtonFormat{
-     margin-top: 25px;
-     background-color: #C91F37;
-     outline-color: #C91F37;
+.footerTitle{
+font-size: 30px;
+padding: 0px;
 }
- .discoverMoreButton{
-    float:right;
-    margin-right: 20px;
+.cardButtonFormat{
+margin-top: 25px;
+background-color: #C91F37;
+outline-color: #C91F37;
+}
+.discoverMoreButton{
+float:right;
+margin-right: 20px;
 }
 .card-title{
-    font-family: 'Outfit', sans-serif;
-    font-weight: 800;
-    font-size: 25px;
+font-family: 'Outfit', sans-serif;
+font-weight: 800;
+font-size: 25px;
 }
-
 li {
-    font-size: 14px;
-    margin-left: 10px;
-    list-style-type:disc;
+font-size: 14px;
+margin-left: 10px;
+list-style-type:disc;
 }
- body {
-     font-family: 'Outfit', sans-serif;
-     font-size: large;
-     background-image: url('../img/indexBackground.jpg');
-     color: #FFFEF2;
+body {
+font-family: 'Outfit', sans-serif;
+font-size: large;
+background-image: url('../img/indexBackground.jpg');
+color: #FFFEF2;
 }
- html {
-     background-image: url('../img/indexBackground.jpg');
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: cover;
+html {
+background-image: url('../img/indexBackground.jpg');
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
