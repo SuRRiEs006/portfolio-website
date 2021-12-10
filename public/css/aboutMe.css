@@ -1,0 +1,27 @@
+.topOfDivText{
+    text-align:center;
+    font-size: 46px;
+}
+.justTextTimeline{
+    margin-bottom: 40px;
+  font-size:20px;  
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.intraTextTitle{
+    font-size: 30px;
+}
+.intraTextFollowUp{
+    font-size: 22px;
+}
+.listProperties{
+    margin-left: 65px;
+    font-size: 20px;
+    font-weight: 00;
+}
+.courseListProperties{
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    font-size: 20px;
+}

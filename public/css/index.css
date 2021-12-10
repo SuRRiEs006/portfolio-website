@@ -1,0 +1,41 @@
+.quotationImgStyle{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 100px;
+    width: auto;
+
+}
+
+.topQuote{
+    font-size: 70px;
+    padding: 0px;
+    color: #C91F37;
+}
+
+.bottomQuote{
+    color: #C91F37;
+    font-size: 40px;
+    position:relative;
+    float:right;
+}
+
+.innerQuoteFormat{
+    position: relative;
+    text-align: center;
+    padding-left:50px;
+    padding-right:20px;
+    font-weight: 800;
+}
+.institutionText{
+
+    text-align:center;
+    font-size: 20px;
+}
+.roleText{
+    text-align:center;
+    font-size: 30px;
+}
+.testimonialFormat{
+    margin-top: 20px;
+
+}
