@@ -22,6 +22,9 @@
      border: none;
 
 }
+.leftBorderLine{
+    border-left: 2px solid white;
+}
  .spacerDiv{
      height: 100px;
 }
